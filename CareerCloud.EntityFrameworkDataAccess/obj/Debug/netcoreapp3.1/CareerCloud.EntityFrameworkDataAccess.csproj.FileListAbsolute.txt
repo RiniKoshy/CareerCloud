@@ -1,0 +1,14 @@
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.deps.json
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfo.cs
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb

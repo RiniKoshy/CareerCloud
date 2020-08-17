@@ -1,0 +1,18 @@
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.deps.json
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.AssemblyInfo.cs
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.csprojAssemblyReference.cache
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.deps.json
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.AssemblyInfo.cs
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.csprojAssemblyReference.cache

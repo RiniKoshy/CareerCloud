@@ -1,0 +1,17 @@
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.deps.json
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+D:\Humber .Net Course Study Materials\John Hinz\C# and Windows Desktop Appl - NET-012-909\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.deps.json
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+D:\Humber .Net Course Study Materials\John Hinz\Assignment1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.csprojAssemblyReference.cache
